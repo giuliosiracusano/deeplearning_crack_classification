@@ -1,18 +1,18 @@
-## Title:
-## Automatic crack classification by exploiting statistical event descriptors for Deep Learning
+# Title:
+# Automatic crack classification by exploiting statistical event descriptors for Deep Learning
 
-## Authors:
-## Giulio Siracusano, Francesca Garescì, Giovanni Finocchio, Riccardo Tomasello, Francesco Lamonaca, 
-## Carmelo Scuro, , Mario Carpentieri, Massimo Chiappini and Aurelio La Corte
-## email: giuliosiracusano@gmail.com
+# Authors:
+# Giulio Siracusano, Francesca Garescì, Giovanni Finocchio, Riccardo Tomasello, Francesco Lamonaca, 
+# Carmelo Scuro, , Mario Carpentieri, Massimo Chiappini and Aurelio La Corte
+# email: giuliosiracusano@gmail.com
 
-## Description
-## Zip Archive is composed of 3 files:
+# Description
+# Zip Archive is composed of 3 files:
 1. Training_dataset_15000AE_1000_samples.mat
 2. Testing_dataset_1650AE_1000_samples.mat
 3. README.md (this file)
 
-## Legend
+# Legend
 # Training Dataset (Matlab Format)
 # Training_dataset_15000AE_1000_samples.mat
 
