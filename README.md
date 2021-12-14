@@ -1,16 +1,16 @@
 %% Title:
-%% Automatic crack detection and classification by exploiting statistical event descriptors for Deep Learning
+%% Automatic crack classification by exploiting statistical event descriptors for Deep Learning
 
 %% Authors:
-%% Giulio Siracusano, Aurelio La Corte, Riccardo Tomasello, Francesco Lamonaca, 
-%% Carmelo Scuro, Francesca Garescì, Mario Carpentieri and Giovanni Finocchio
-%% email: giuliosiracusano@unict.it
+%% Giulio Siracusano, Francesca Garescì, Giovanni Finocchio, Riccardo Tomasello, Francesco Lamonaca, 
+%% Carmelo Scuro, , Mario Carpentieri, Massimo Chiappini and Aurelio La Corte
+%% email: giuliosiracusano@gmail.com
 
 %% Description
 %% Zip Archive is composed of 3 files:
 1. Training_dataset_15000AE_1000_samples.mat
 2. Testing_dataset_1650AE_1000_samples.mat
-3. README.txt (this file)
+3. README.md (this file)
 
 %% Legend
 % Training Dataset (Matlab Format)
@@ -41,4 +41,4 @@ freq   is the vector of frequencies related to the given sampling frequency. It 
 time   is the time vector (sampling frequency has been reduced to 500kHz to save space). It is composed of 1000 elem(s)
 
 % Last Revision
-% 27-Apr-2019			
+% 14-Dec-2021			
