@@ -2,7 +2,7 @@
 % Automatic crack classification by exploiting statistical event descriptors for Deep Learning
 
 % Authors:
-% Giulio Siracusano, Francesca Garescì, Giovanni Finocchio, Riccardo Tomasello, Francesco Lamonaca, 
+% Giulio Siracusano, Francesca GarescÃ¬, Giovanni Finocchio, Riccardo Tomasello, Francesco Lamonaca, 
 % Carmelo Scuro, , Mario Carpentieri, Massimo Chiappini and Aurelio La Corte
 % email: giuliosiracusano@gmail.com
 
@@ -42,3 +42,6 @@ time   is the time vector (sampling frequency has been reduced to 500kHz to save
 
 % Last Revision
 % 14-Dec-2021			
+
+% Link to the video
+https://youtu.be/GUnPzEDidi4
